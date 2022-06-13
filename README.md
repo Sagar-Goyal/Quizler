@@ -1,16 +1,19 @@
-# trivia_app
+<h1 align="center">
+  
+  <br>
+     <a href="https://github.com/Sagar-Goyal/Quizler"><img src="test.png" alt="Test logo" width="200"></a>
+  <br>
+    📱 Quizler 📱
+  <br>
+</h1>
 
-A new Flutter project.
+<h4 align="center">A simple yet beautiful Quiz app with multiple categories built on top of <a href="https://flutter.dev/" target="_blank" style="color:##0276E8;">Flutter</a>.</h4>
+<br>
 
-## Getting Started
+##  About this project
+This repository holds my very fisrt project built with flutter. Purpose of this project is to learn new concepts in flutter.
 
-This project is a starting point for a Flutter application.
+Quizler is a quiz game app which retrieve questions from <a href="https://the-trivia-api.com/" target="_blank" style="color:##0276E8;">The Trivia API</a>. It has questions in multiple category and with difficulty options.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="screenshots/screenshot-1.jpg" alt="Screenshot" width="150">  <img src="screenshots/screenshot-2.jpg" alt="Screenshot" width="150">  <img src="screenshots/screenshot-3.jpg" alt="Screenshot" width="150">
