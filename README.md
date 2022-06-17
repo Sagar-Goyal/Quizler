@@ -19,6 +19,6 @@ Quizler is a quiz game app which retrieve questions from <a href="https://the-tr
 <img src="screenshots/screenshot-1.jpg" alt="Screenshot" width="150">  <img src="screenshots/screenshot-2.jpg" alt="Screenshot" width="150">  <img src="screenshots/screenshot-3.jpg" alt="Screenshot" width="150">
 
 ## Dependencies used
-<a href="https://the-trivia-api.com/" target="_blank" style="color:##0276E8;">The Trivia API</a>
-<a href="[https://the-trivia-api.com/](https://pub.dev/packages/http)" target="_blank" style="color:##0276E8;">http</a>
+<a href="https://the-trivia-api.com/" target="_blank" style="color:##0276E8;">The Trivia API</a><br>
+<a href="https://pub.dev/packages/http" target="_blank" style="color:##0276E8;">http</a>
 
